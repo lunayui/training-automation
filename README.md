@@ -1,2 +1,2 @@
-# java-programming
-java programming repository for training automation 
+#training-automation
+repository for training automation col
